@@ -1,0 +1,18 @@
+{
+  "name": "anstou/route",
+  "description": "HTTP",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AnstOu",
+      "email": "anstou@1673.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Route\\": "src/route"
+    }
+  }
+}
