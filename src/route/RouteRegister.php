@@ -7,7 +7,9 @@ namespace Route;
 class RouteRegister
 {
 
-    public static function test()
+    private $routes = [];
+
+    public function group(string $prefix, array $middleware, \Closure $closure)
     {
         echo 1;
     }

@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="377d1ed0-2b34-49d7-b100-efb2022ba627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/index.php" afterDir="false" />
+    <list default="true" id="377d1ed0-2b34-49d7-b100-efb2022ba627" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/route/RouteRegister.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/route/RouteRegister.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,21 @@
       <recent name="D:\anstou\route\src\route" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/test/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,8 +80,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603698715813</updated>
-      <workItem from="1603698716879" duration="1110000" />
+      <workItem from="1603698716879" duration="2907000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1603699872610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603699872610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +106,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="571" y="520" key="#Composer" timestamp="1603698723995">
       <screen x="0" y="40" width="2048" height="1112" />
@@ -91,6 +119,22 @@
       <screen x="0" y="40" width="2048" height="1112" />
     </state>
     <state x="530" y="554" key="ComposerInitDialogKey/0.40.2048.1112/2560.185.1920.1040@0.40.2048.1112" timestamp="1603698734988" />
+    <state width="1482" height="214" key="GridCell.Tab.0.bottom" timestamp="1603699944237">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state width="1482" height="214" key="GridCell.Tab.0.bottom/0.40.2048.1112/2560.185.1920.1040@0.40.2048.1112" timestamp="1603699944237" />
+    <state width="1482" height="214" key="GridCell.Tab.0.center" timestamp="1603699944237">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state width="1482" height="214" key="GridCell.Tab.0.center/0.40.2048.1112/2560.185.1920.1040@0.40.2048.1112" timestamp="1603699944237" />
+    <state width="1482" height="214" key="GridCell.Tab.0.left" timestamp="1603699944237">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state width="1482" height="214" key="GridCell.Tab.0.left/0.40.2048.1112/2560.185.1920.1040@0.40.2048.1112" timestamp="1603699944237" />
+    <state width="1482" height="214" key="GridCell.Tab.0.right" timestamp="1603699944237">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state width="1482" height="214" key="GridCell.Tab.0.right/0.40.2048.1112/2560.185.1920.1040@0.40.2048.1112" timestamp="1603699944237" />
     <state x="867" y="513" key="NewPhpClassDialog" timestamp="1603699259376">
       <screen x="0" y="40" width="2048" height="1112" />
     </state>
