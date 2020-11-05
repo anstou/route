@@ -1,0 +1,29 @@
+{
+  "/": {
+    "methods": [
+      "GET"
+    ]
+  },
+  "user": {
+    "{userId:number}": {
+      "methods": [
+        "GET"
+      ]
+    },
+    "methods": [
+      "GET",
+      "POST"
+    ],
+    "index": {
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    "list": {
+      "methods": [
+        "GET"
+      ]
+    }
+  }
+}

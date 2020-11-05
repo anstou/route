@@ -1,18 +1,25 @@
 {
   "name": "anstou/route",
-  "description": "HTTP",
+  "description": "获取yaf所有模块的产生的路由",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
       "name": "AnstOu",
-      "email": "anstou@1673.com"
+      "email": "anstou@163.com"
     }
   ],
-  "require": {},
+  "require": {
+    "ext-json": "*"
+  },
   "autoload": {
     "psr-4": {
-      "Route\\": "src/route"
+      "Anst\\": "src/Anst"
     }
+  },
+  "scripts": {
+    "post-package-install": [
+      ""
+    ]
   }
 }
