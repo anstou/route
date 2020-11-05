@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="377d1ed0-2b34-49d7-b100-efb2022ba627" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/Anst/Route/ReadRoutes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/routes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/test/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/test/test2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/route/RouteRegister.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +98,7 @@
       <workItem from="1603698716879" duration="5037000" />
       <workItem from="1604280030715" duration="716000" />
       <workItem from="1604389098728" duration="16456000" />
-      <workItem from="1604540698509" duration="7475000" />
+      <workItem from="1604540698509" duration="7480000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1603699872610</created>
